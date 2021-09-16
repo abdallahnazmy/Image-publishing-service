@@ -1,0 +1,1 @@
+{"connections":[{"name":"mypostgres","type":"jdbc","info":{"customUrl":"jdbc:postgresql://localhost:1111/postgres","hostname":"localhost","driver":"org.postgresql.Driver","port":"1111","subtype":"SDPostgreSQL","SavePassword":"false","RaptorConnectionType":"SDPostgreSQL","user":"postgres","Connection-Color-For-Editors":"-16777216"}}]}
